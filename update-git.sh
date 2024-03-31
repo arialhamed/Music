@@ -18,3 +18,5 @@ else
 fi
 
 notify-send "git operations are done" "repo is in `pwd`"
+
+pause
